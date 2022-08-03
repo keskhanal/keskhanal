@@ -15,13 +15,6 @@
 ## To begin with:
 <p>I love to dig into problems and solve them with passion </p>
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keskhanal)
-[![Twitter](https://img.shields.io/twitter/follow/keskhanal?logo=Twitter&style=for-the-badge)](https://twitter.com/keskhanal_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keskhanal) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@keskhanal) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/ucfzfb9idpso1rod4wyqyfwq) 
-
 ## 💻 Tech Stacks:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -48,6 +41,13 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=keskhanal&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=keskhanal&theme=vue" />
 </p>
+
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keskhanal)
+[![Twitter](https://img.shields.io/twitter/follow/keskhanal?logo=Twitter&style=for-the-badge)](https://twitter.com/keskhanal_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keskhanal) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@keskhanal) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/ucfzfb9idpso1rod4wyqyfwq) 
 
 <div align="center">
 
