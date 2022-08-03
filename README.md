@@ -47,7 +47,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/keskhanal?logo=Twitter&style=for-the-badge)](https://twitter.com/keskhanal_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keskhanal) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@keskhanal) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/ucfzfb9idpso1rod4wyqyfwq) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfzfb9idPSO1rOd4wyQYfWQ) 
 
 <div align="center">
 
