@@ -1,29 +1,28 @@
-<h1 align="center">Hi 👋, I'm Keshav Khanal</h1>
-<h3 align="center">A Machine Learning Engineer</h3>
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Keshav Khanal</h1>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/developer-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keskhanal&label=Profile%20views&color=0e75b6&style=flat" alt="keskhanal" /> </p>
 
-- 💬 Ask me about **AI and Web3**
-
+## 💫 About Me :
+- 😄 Pronouns: **He/His**
+- 💬 Ask me about **AI, Web3 or any tech-related stuff**
 - 📫 How to reach me **me.keskhanal@gmail.com**
+- ⚡ Fun fact: **I listen same songs again and again until i get bored of it.**
 
-- ⚡ Fun fact **I think I am Funny**
-
-## About me:
+## To begin with:
 <p>I love to dig into problems and solve them with passion </p>
 
-## Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/keskhanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keskhanal" height="30" width="40" /></a>
-  <a href="https://twitter.com/keskhanal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keskhanal_" height="30" width="40" /></a>
-  <a href="https://kaggle.com/keskhanal2413" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="keskhanal2413" height="30" width="40" /></a>
-  <a href="https://instagram.com/keskhanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keskhanal" height="30" width="40" /></a>
-  <a href="https://medium.com/@keskhanal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@keskhanal" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/ucfzfb9idpso1rod4wyqyfwq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucfzfb9idpso1rod4wyqyfwq" height="30" width="40" /></a>
-</p>
+## 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keskhanal)
+[![Twitter](https://img.shields.io/twitter/follow/keskhanal?logo=Twitter&style=for-the-badge)](https://twitter.com/keskhanal_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keskhanal) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@keskhanal) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/ucfzfb9idpso1rod4wyqyfwq) 
 
-## Languages and Tools:
+## 💻 Languages and Tools:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -39,9 +38,19 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keskhanal&show_icons=true&locale=en&layout=compact" alt="keskhanal" /></p>
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keskhanal&theme=vue"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keskhanal&show_icons=true&locale=en" alt="keskhanal" /></p>
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=keskhanal&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=keskhanal&theme=vue" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keskhanal&" alt="keskhanal" /></p>
+<div align="center">
 
+### Show some ❤️ by starring some of the repositories!
+
+</div>
