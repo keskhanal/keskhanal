@@ -9,8 +9,7 @@
 ## 💫 About Me :
 - 😄 Pronouns: **He/His**
 - 💬 Ask me about **AI, Web3 or any tech-related stuff**
-- 📫 How to reach me **me.keskhanal@gmail.com**
-- ⚡ Fun fact: **I listen same songs again and again until i get bored of it.**
+- 📫 How to reach **me.keskhanal@gmail.com**
 
 ## To begin with:
 <p>I love to dig into problems and solve them with passion </p>
