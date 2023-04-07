@@ -1,4 +1,4 @@
-<h1 align="center"> Namaste, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Namaste, <img src="https://cliply.co/wp-content/uploads/2020/08/432008031_FOLDED_HANDS_3D_LIGHT_SKIN_TONE_400px.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Keshav Khanal</h1>
