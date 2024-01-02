@@ -42,13 +42,11 @@
 </p>
 
 ## 🌐 Connect with me:
-<div align="center">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keskhanal)
 [![Twitter](https://img.shields.io/twitter/follow/keskhanal?logo=Twitter&style=for-the-badge)](https://twitter.com/keskhanal1)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/keskhanal) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@keskhanal) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCfzfb9idPSO1rOd4wyQYfWQ) 
-</div>
 
 <div align="center">
 
